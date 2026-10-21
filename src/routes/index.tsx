@@ -34,7 +34,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const CLAIM_URL = "https://giftclick.org/aff_c?offer_id=3893&aff_id=17763";
+const CLAIM_URL = "https://giftclick.org/aff_c?offer_id=1541&aff_id=17763";
 
 const STEPS: { icon: LucideIcon; title: string; description: string }[] = [
   {
